@@ -2,4 +2,4 @@
 
 # next to do:
 a. Validation
-b. Manually
+b. Code Manual
